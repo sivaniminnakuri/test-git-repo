@@ -1,0 +1,22 @@
+{
+  "name": "@sivaniminnakuri/test-git-repo",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@sivaniminnakuri"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivaniminnakuri/test-git-repo.git"
+  },
+  "author": "sivani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sivaniminnakuri/test-git-repo/issues"
+  },
+  "homepage": "https://github.com/sivaniminnakuri/test-git-repo#readme"
+}
